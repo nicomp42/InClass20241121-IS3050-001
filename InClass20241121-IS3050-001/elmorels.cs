@@ -9,7 +9,7 @@ namespace InClass20241121_IS3050_001
     {
         public static void Hello()
         {
-            Console.WriteLine("Osu will crush IU");
+            Console.WriteLine("Osu will crush IU"); 
         }
     }
 }
