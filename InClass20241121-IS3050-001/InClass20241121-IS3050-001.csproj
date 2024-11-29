@@ -78,6 +78,7 @@
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sharpenn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
