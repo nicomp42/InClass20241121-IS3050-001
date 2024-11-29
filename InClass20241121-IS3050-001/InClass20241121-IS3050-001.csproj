@@ -70,6 +70,7 @@
   <ItemGroup>
     <Compile Include="manuelhv.cs" />
     <Compile Include="HelloWorld.cs" />
+    <Compile Include="hoangnd.cs" />
     <Compile Include="Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
